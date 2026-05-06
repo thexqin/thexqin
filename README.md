@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Advanced VLM (Vision-Language Models)** for structural anomaly detection.
 - 👯 I’m looking to collaborate on **Open-source AEC (Architecture, Engineering, Construction) AI tools**.
 - 💬 Ask me about **RAG pipelines for legacy data**, **Stable Diffusion for Architects**, and **NYC Urban Data**.
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/thexqin/)** | **[ArtStation](https://www.artstation.com/thexqin)** | or meet at 🍎.
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/thexqin)** | **[ArtStation](https://www.artstation.com/thexqin)** | or meet at 🍎.
 - ⚡ Fun fact: I contributed to an **Emmy® Award-winning film** ("Rising: Rebuilding Ground Zero") through technical CGI.
 
 <!--
