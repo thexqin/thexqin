@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I'm Xiao Qin
+
+**Head of Architectural Intelligence | Senior Data Scientist & CGI Strategist**<br />
+*Bridging the gap between High-End Architecture and Agentic AI.*
+
+- 🔭 I’m currently working on **[QX-Comfy](https://github.com/thexqin/qx-comfy)** (LLM-powered ComfyUI nodes) and AI-driven [Building Code automation](https://github.com/thexqin/us-building-codes-dataset).
+- 🌱 I’m currently learning **Advanced VLM (Vision-Language Models)** for structural anomaly detection.
+- 👯 I’m looking to collaborate on **Open-source AEC (Architecture, Engineering, Construction) AI tools**.
+- 💬 Ask me about **RAG pipelines for legacy data**, **Stable Diffusion for Architects**, and **NYC Urban Data**.
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/thexqin/)** | **[ArtStation](https://www.artstation.com/thexqin)** | or meet at 🍎.
+- ⚡ Fun fact: I contributed to an **Emmy® Award-winning film** ("Rising: Rebuilding Ground Zero") through technical CGI.
 
 <!--
 **thexqin/thexqin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
