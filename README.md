@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Xiao Qin
 
-**Head of Architectural Intelligence | Senior Data Scientist & CGI Strategist**<br />
+**Senior Data Scientist & CGI Strategist**<br />
 *Bridging the gap between High-End Architecture and Agentic AI.*
 
 - 🔭 I’m currently working on **[QX-Comfy](https://github.com/thexqin/qx-comfy)** (LLM-powered ComfyUI nodes) and AI-driven [Building Code automation](https://github.com/thexqin/us-building-codes-dataset).
