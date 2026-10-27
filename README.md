@@ -35,4 +35,4 @@ I build generative AI, real-time and data pipelines that design and production t
 | [md2pdf](https://github.com/thexqin/md2pdf) | Privacy-first Markdown editor that exports clean PDFs from the browser |
 
 ### Elsewhere
-[LinkedIn](https://www.linkedin.com/in/thexqin) | [ArtStation](https://www.artstation.com/thexqin) | [YouTube](https://www.youtube.com/@The3MinuteNode) | [Hugging Face](https://huggingface.co/thexqin)
+[LinkedIn](https://www.linkedin.com/in/thexqin) | [ArtStation](https://www.artstation.com/thexqin) | [YouTube](https://www.youtube.com/@The3MinuteNode)
