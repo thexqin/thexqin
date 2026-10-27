@@ -20,6 +20,7 @@ I build generative AI, real-time and data pipelines that design and production t
 |---|---|
 | [ComfyUI-Advanced-Installer](https://github.com/The3MinuteNode/ComfyUI-Advanced-Installer) | One-click portable ComfyUI for Windows (Python 3.13, CUDA 13, SageAttention). 29 stars, 1,600+ downloads |
 | [Ashley-Bot](https://github.com/The3MinuteNode/Ashley-Bot) | Discord bot that archives a server's history, runs a fair XP and level system with an anti-spam cooldown, and manages roles |
+| [PBR-Viewer](https://github.com/The3MinuteNode/PBR-Viewer) | Zero-setup browser viewer (Three.js) for PBR texture maps: load albedo, normal, roughness and metallic maps, switch sphere or cube, adjust studio lighting and UV tiling |
 
 ### AEC data and 3D tooling
 | Repo | What it is |
