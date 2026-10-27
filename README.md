@@ -5,28 +5,34 @@ I build generative AI, real-time and data pipelines that design and production t
 
 ### What I work on
 - **Private generative AI:** LoRA models trained on a 70-year architecture archive; ComfyUI workflows used on 15+ projects.
-- **Knowledge systems:** a Slack RAG bot over 500+ built projects, built in 4 weeks.
-- **AEC data:** U.S. building codes (IBC, IEBC, IRC, ADA) as machine-readable data mapped to IFC. [us-building-codes-dataset](https://github.com/thexqin/us-building-codes-dataset)
+- **Knowledge systems:** a Slack bot that answers questions about 500+ built projects in seconds, built in 4 weeks.
+- **AEC data:** U.S. building codes (IBC, IEBC, IRC, ADA) as machine-readable data mapped to IFC.
+- **Teaching:** [The 3-Minute Node](https://www.youtube.com/@The3MinuteNode), 6.4K YouTube subscribers and an 8,000-member ComfyUI Discord.
 
-### Featured repositories
+### AI systems for a design firm
 | Repo | What it is |
 |---|---|
-| [3ds-max-toolbox-new](https://github.com/thexqin/3ds-max-toolbox-new) | MAXScript toolbox for scene cleanup, map checking and Corona optimization |
-| [facade-inspection-costing](https://github.com/thexqin/facade-inspection-costing) | Local vision-model prototype for facade defect detection |
-| [ComfyUI-Advanced-Installer](https://github.com/The3MinuteNode/ComfyUI-Advanced-Installer) | One-click portable ComfyUI installer, 29 stars, 1,600+ downloads |
-| [Ashley-Bot](https://github.com/The3MinuteNode/Ashley-Bot) | Discord bot for server archiving, XP levels and role management |
+| [pcf-design-intelligence](https://github.com/thexqin/pcf-design-intelligence) | Framework for putting a firm's own design language into local AI: custom LoRA training, ControlNet and image-edit workflows in ComfyUI, and archive search |
+| [archival-knowledge-slack-bot](https://github.com/thexqin/archival-knowledge-slack-bot) | Slack bot that answers plain-language questions about project history and file locations (text-to-SQL plus semantic search, local LLM) |
 
-<!--
-**thexqin/thexqin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Open source for ComfyUI creators
+| Repo | What it is |
+|---|---|
+| [ComfyUI-Advanced-Installer](https://github.com/The3MinuteNode/ComfyUI-Advanced-Installer) | One-click portable ComfyUI for Windows (Python 3.13, CUDA 13, SageAttention). 29 stars, 1,600+ downloads |
+| [Ashley-Bot](https://github.com/The3MinuteNode/Ashley-Bot) | Discord bot that archives a server's history, runs a fair XP and level system with an anti-spam cooldown, and manages roles |
 
-Here are some ideas to get you started:
+### AEC data and 3D tooling
+| Repo | What it is |
+|---|---|
+| [us-building-codes-dataset](https://github.com/thexqin/us-building-codes-dataset) | Pipeline that scrapes, parses and AI-enriches U.S. building codes and ADA into structured data, with a "Base-to-State" strategy that cuts LLM cost |
+| [3ds-max-toolbox-new](https://github.com/thexqin/3ds-max-toolbox-new) | MAXScript toolbox for scene cleanup, map checking and Corona optimization (2023-2025). The [original](https://github.com/thexqin/3ds-max-toolbox) dates from 2011-2014 |
+| [facade-inspection-costing](https://github.com/thexqin/facade-inspection-costing) | Design notes for a local vision-model workflow that finds facade defects and outputs structured data for costing |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Small experiments
+| Repo | What it is |
+|---|---|
+| [sim-world](https://github.com/thexqin/sim-world) | A tiny 2D world in plain Node.js where agents survive and you change the rules live. I directed it and Claude Code wrote it; the README explains how |
+| [md2pdf](https://github.com/thexqin/md2pdf) | Privacy-first Markdown editor that exports clean PDFs from the browser |
+
+### Elsewhere
+[LinkedIn](https://www.linkedin.com/in/thexqin) | [ArtStation](https://www.artstation.com/thexqin) | [YouTube](https://www.youtube.com/@The3MinuteNode) | [Hugging Face](https://huggingface.co/thexqin)
