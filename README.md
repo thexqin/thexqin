@@ -13,7 +13,7 @@ I build generative AI, real-time and data pipelines that design and production t
 | Repo | What it is |
 |---|---|
 | [pcf-design-intelligence](https://github.com/thexqin/pcf-design-intelligence) | Framework for putting a firm's own design language into local AI: custom LoRA training, ControlNet and image-edit workflows in ComfyUI, and archive search |
-| [archival-knowledge-slack-bot](https://github.com/thexqin/archival-knowledge-slack-bot) | Slack bot that answers plain-language questions about project history and file locations (text-to-SQL plus semantic search, local LLM) |
+| [slack-archive-search](https://github.com/thexqin/slack-archive-search) | Slack bot that finds any project folder in ~12 TB of office archives and summarises what’s inside. Hybrid FTS5 + local embeddings, no LLM. Built with Claude Code. |
 
 ### Open source for ComfyUI creators
 | Repo | What it is |
