@@ -12,7 +12,7 @@ I build generative AI, real-time and data pipelines that design and production t
 ### AI systems for a design firm
 | Repo | What it is |
 |---|---|
-| [pcf-design-intelligence](https://github.com/thexqin/pcf-design-intelligence) | Framework for putting a firm's own design language into local AI: custom LoRA training, ControlNet and image-edit workflows in ComfyUI, and archive search |
+| [pcf-ai-program](https://github.com/thexqin/pcf-ai-program) | How a 70-year-old architecture firm uses AI: style models trained on its own work, ControlNet design workflows, and archive search. |
 | [slack-archive-search](https://github.com/thexqin/slack-archive-search) | Slack bot that finds any project folder in ~12 TB of office archives and summarises what’s inside. Hybrid FTS5 + local embeddings, no LLM. Built with Claude Code. |
 
 ### Open source for ComfyUI creators
